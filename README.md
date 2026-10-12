@@ -6,20 +6,20 @@ A practical reference entry for product and engineering: the palmier-pro notes, 
 
 ## Images
 
-[![palmier-pro](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![palmier-pro](images/preview.png)](https://github.com/Swift-Tech-Co/palmier-pro)
 
 ## MCP server
 
-When the app is open, it exposes an MCP server at `https://www.swifttechco.com via HTTP. To connect:
+When the app is open, it exposes an MCP server at `https://github.com/Swift-Tech-Co/palmier-pro via HTTP. To connect:
 
 **Claude Code**
 ```bash
-claude mcp add --transport http palmier-pro https://www.swifttechco.com
+claude mcp add --transport http palmier-pro https://github.com/Swift-Tech-Co/palmier-pro
 ```
 
 **Codex**
 ```bash
-codex mcp add palmier-pro --url https://www.swifttechco.com
+codex mcp add palmier-pro --url https://github.com/Swift-Tech-Co/palmier-pro
 ```
 
 **Cursor**
@@ -31,7 +31,7 @@ The easiest way is go inside the app `Help` -> `MCP Instructions` -> `Install in
   "mcpServers": {
     "palmier-pro": {
       "type": "http",
-      "url": "https://www.swifttechco.com"
+      "url": "https://github.com/Swift-Tech-Co/palmier-pro"
     }
   }
 }
@@ -81,13 +81,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/palmier-pro
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
